@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "anagram_groups", "anagram_groups\anagram_groups.csproj", "{B1E56E0F-76E3-4AC5-A550-D2A14D9A8580}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1E56E0F-76E3-4AC5-A550-D2A14D9A8580}.Debug|x86.ActiveCfg = Debug|x86
+		{B1E56E0F-76E3-4AC5-A550-D2A14D9A8580}.Debug|x86.Build.0 = Debug|x86
+		{B1E56E0F-76E3-4AC5-A550-D2A14D9A8580}.Release|x86.ActiveCfg = Release|x86
+		{B1E56E0F-76E3-4AC5-A550-D2A14D9A8580}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
